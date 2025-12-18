@@ -120,15 +120,14 @@ Collaborative | Continuous Learner
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKSHITAGUPTA11&show_icons=true&theme=tokyonight" alt="Akshita's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHITAGUPTA11&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AKSHITAGUPTA11&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=AKSHITAGUPTA11&theme=github-dark&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHITAGUPTA11&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHITAGUPTA11&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-&theme=github_dark
 
 
 ⭐ *Feel free to explore my repositories and connect with me!*  
