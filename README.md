@@ -121,7 +121,7 @@ Collaborative | Continuous Learner
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKSHITAGUPTA11&show_icons=true&theme=tokyonight" alt="Akshita's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHITAGUPTA11&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  
 </p>
 
 <p align="center">
